@@ -7,7 +7,12 @@ body{
     background-color: #eeeeee; 
     color: #ffffff;
 }
+.card-img-top{
 
+
+border-radius: 8px;
+    width: 200px;
+}
 
 .imgp { 
     border-radius: 50%;
